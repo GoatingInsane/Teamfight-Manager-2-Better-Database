@@ -80,6 +80,6 @@ Div 2 JP/SA - Unstable - Poor
 
 ### Why are Player salaries innaccurate?
 
-The current version of Teamfight Manager 2 does not me to directly edit player salaries, and adding new players seems to have a limit of 120k salary. I have tried to assign high earning and highly valued players the highest salaries on each base roster, but for rosters with many legendary players, it is impossible to give them all accurate salaries. 
+The current version of Teamfight Manager 2 does not allow me to directly edit player salaries, and adding new players seems to have a limit of 120k salary. I have tried to assign high earning and highly valued players the highest salaries on each base roster, but for rosters with many legendary players, it is impossible to give them all accurate salaries. 
 
-This issue will be resolved and
+This issue will be resolved when this feature becomes avaialbe.
