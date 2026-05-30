@@ -30,24 +30,24 @@ If interest is shown, I may also create retro branches to hilight the forgotten 
 
 In general, MOBA prowess is valued highest for a balanced skill set. Fighting Game and RTS players have high technical speed and skill, but low Team synergy stats, while FPS players have high team synergy and aim, but low game knowledge.
 
-League of Legends players were compared to all other players in their role in a giant spreadsheet.
-Monster Kills was calculated using CS/min and CS advantage at 15 minutes.
-Skill Hit was calculated using DMG/min.
-Roaming was calculated using Kill Participation.
-Aggression was calculated using first death of the game %.
+League of Legends players were compared to all other players in their role in a giant spreadsheet.  
++ Monster Kills was calculated using CS/min and CS advantage at 15 minutes.  
++ Skill Hit was calculated using DMG/min.  
++ Roaming was calculated using Kill Participation.  
++ Aggression was calculated using first death of the game %.  
 
-Region and Division were factored in through the following multipliers:
-Korea Div 1 100%
-China Div 1 95%
-Europe/NA Div 1 90%
-Korea/China Div 2 85%
-SA/Japan/SEA Div 1 80%
-Europe/NA Div 2 70%
-SA/Japan/SEA Div 2 60%
-Players that were in multiple regions/divisions for a significant amount of time used the average (eg. Nemesis 80%, Poby 87.5%)
-This multiplier is also the default for each players Judgement stat, with specific exceptions for players who perform above their regions expectation (eg. Caps, Inspired, Levi).
+Region and Division were factored in through the following multipliers:  
+Korea Div 1 100%  
+China Div 1 95%  
+Europe/NA Div 1 90%  
+Korea/China Div 2 85%  
+SA/Japan/SEA Div 1 80%  
+Europe/NA Div 2 70%  
+SA/Japan/SEA Div 2 60%  
+Players that were in multiple regions/divisions for a significant amount of time used the average (eg. Nemesis 80%, Poby 87.5%)  
+This multiplier is also the default for each players Judgement stat, with specific exceptions for players who perform above their regions expectation (eg. Caps, Inspired, Levi).  
 
-Some stats like Ego are very hard to accurately judge, but I tried to include as much lore as I could (eg. TheShy famously disobeying his coach)
+Some stats like Ego are very hard to accurately judge, but I tried to include as much lore as I could (eg. TheShy famously disobeying his coach)  
 Some stats were also manually set based on lore as well (eg. Rekkles having a min Aggression score, Hylissang having a max Aggression score)
 
 ### Why doesn't Faker have the max score in every stat?
