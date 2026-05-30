@@ -8,6 +8,10 @@ Because of the drastic region imbalance in the League of Legends pro scene, the 
 
 Because SEA is missing in the game and Japan has the least major Esports teams of the provided regions, SEA and Japan were combined.
 
+### Why github?
+
+As Teamfight Manager 2 is updated and new features are added to the database editor, I will continue to update this data base to increase accuracy and balance where possible. You will be able to easily find and download the latest version of my database in the releases tab of this repository. 
+
 ### How are Players assigned to Orgs?
 
 Because the game begins in 2026, Player ages and current team assignments are accurate to May 2026. Because most regions include more Orgs than are in the League of Legends circuit (eg. Spirit being in the EU Div 1) and the nature of Academy teams being that Orgs can easily promote Academy players to their Div 1 roster (eg. Smash on T1 in 2025), Orgs include their main and academy rosters, while Div 2 includes lower tier modern Orgs and high tier disbanded Orgs.
@@ -15,6 +19,12 @@ Retired players are usually assigned based on their last active Org, however som
 Some really old school players are assigned as coaches/analysts when applicable (eg. BoxeR on T1)
 This will cause some Orgs to be naturally stronger, however if you play out the trading period, it should balance things out more. This imbalance is also inherent to the current version of Teamfight Manager 2, with your starting Region and Team acting as a secondary difficulty setting.
 Of course, you can always create your own custom team to replace any of the default teams.
+
+### Will the database be updated to match the eSports landscape 2027 and beyond?
+
+There will be branches in the future that are up to date with the spring of each year. The official database will still be the 2026 version, with Org assignments and Player ages remaining unchanged. Alternate versions will be labeled 2027, 2028, 2029 etc. 
+
+If interest is shown, I may also create retro branches to hilight the forgotten stars of metas that have passed.
 
 ### How is Player strength calculated?
 
@@ -60,3 +70,9 @@ In each region the ranges of wealth is
 Div 1 KR/CN/NA/EU = Wealthy - Stable
 Div 1 JP/SA, Div 2 KR/CN/NA/EU = Wealthy - Unstable
 Div 2 JP/SA - Unstable - Poor
+
+### Why are Player salaries innaccurate?
+
+The current version of Teamfight Manager 2 does not me to directly edit player salaries, and adding new players seems to have a limit of 120k salary. I have tried to assign high earning and highly valued players the highest salaries on each base roster, but for rosters with many legendary players, it is impossible to give them all accurate salaries. 
+
+This issue will be resolved and
