@@ -37,13 +37,13 @@ League of Legends players were compared to all other players in their role in a 
 + Aggression was calculated using first death of the game %.  
 
 Region and Division were factored in through the following multipliers:  
-Korea Div 1 100%  
-China Div 1 95%  
-Europe/NA Div 1 90%  
-Korea/China Div 2 85%  
-SA/Japan/SEA Div 1 80%  
-Europe/NA Div 2 70%  
-SA/Japan/SEA Div 2 60%  
++ Korea Div 1 100%  
++ China Div 1 95%  
++ Europe/NA Div 1 90%  
++ Korea/China Div 2 85%  
++ SA/Japan/SEA Div 1 80%  
++ Europe/NA Div 2 70%  
++ SA/Japan/SEA Div 2 60%  
 Players that were in multiple regions/divisions for a significant amount of time used the average (eg. Nemesis 80%, Poby 87.5%)  
 This multiplier is also the default for each players Judgement stat, with specific exceptions for players who perform above their regions expectation (eg. Caps, Inspired, Levi).  
 
@@ -52,14 +52,16 @@ Some stats were also manually set based on lore as well (eg. Rekkles having a mi
 
 ### Why doesn't Faker have the max score in every stat?
 
-I am judging stats based on overall career, and current opinion of the community when stats aren't available. A player like Faker is considered the GOAT of LoL, but is more of a Jack of All trades especially at this point in his career. His greatest strength is resilience, with T1 consistently performing above expectation under pressure. Because of this, I set his Focus, Mental and Judgement to max, while allowing players like Chovy, s1mple, and SonicFox to outshine him in stats that represent their respective dominance in specific skills. Of course, you can always edit values you disagree with, these are just the stats I gave the players based on my limited knowledge.
+I am judging stats based on overall career, and current opinion of the community when stats aren't available. A player like Faker is considered the GOAT of LoL, but is more of a Jack of All trades especially at this point in his career. His greatest strength is resilience, with T1 consistently performing above expectation under pressure. Because of this, I set his Focus, Mental and Judgement to max, while allowing players like Chovy, s1mple, and SonicFox to outshine him in stats that represent their respective dominance in specific skills. 
+
+Of course, you can always edit values you disagree with, these are just the stats I gave the players based on my limited knowledge.
 
 ### How is a non-MOBA player's role assigned?
 
-Vibes :)
-Fighting Game players are often Top laners because it is the most like a 1v1.
-FPS players are often Bot laners if they're known for their accuracy and 1v5 clutches, Mid laners if their known for being an IGL, or Supports if they're known for Util usage or playing dangerous positions that give the team info.
-Happy is a Jungler because Warcraft III is all about creep camps.
+Vibes :)  
+Fighting Game players are often Top laners because it is the most like a 1v1.  
+FPS players are often Bot laners if they're known for their accuracy and 1v5 clutches, Mid laners if their known for being an IGL, or Supports if they're known for Util usage or playing dangerous positions that give the team info.  
+Happy is a Jungler because Warcraft III is all about creep camps.  
 For some players I had a specific champion in mind (eg. HungryBox is a Jungler because Ghost chomps, and is round and floaty).
 
 ### How is Team wealth, popularity and performance level calculated?
