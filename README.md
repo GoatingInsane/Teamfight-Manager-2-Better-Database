@@ -36,7 +36,7 @@ League of Legends players were compared to all other players in their role in a 
 + Roaming was calculated using Kill Participation.  
 + Aggression was calculated using first death of the game %.  
 
-Region and Division were factored in through the following multipliers:  
+Region and Division was factored in through the following multipliers:  
 + Korea Div 1 100%  
 + China Div 1 95%  
 + Europe/NA Div 1 90%  
@@ -48,8 +48,7 @@ Region and Division were factored in through the following multipliers:
 Players that were in multiple regions/divisions for a significant amount of time used the average  
 &ensp; *eg. Nemesis 80%, Poby 87.5%*  
 This multiplier is also the default for each players Judgement stat, with specific exceptions for players who perform above their regions expectation  
-&ensp; *eg. Caps, Inspired, Levi*
-
+&ensp; *eg. Caps, Inspired, Levi*  
 Some stats like Ego are very hard to accurately judge, but I tried to include as much lore as I could  
 &ensp; *eg. TheShy famously disobeying his coach*  
 Some stats were also manually set based on lore as well  
