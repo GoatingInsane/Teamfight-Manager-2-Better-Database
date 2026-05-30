@@ -44,6 +44,7 @@ Region and Division were factored in through the following multipliers:
 + SA/Japan/SEA Div 1 80%  
 + Europe/NA Div 2 70%  
 + SA/Japan/SEA Div 2 60%  
+
 Players that were in multiple regions/divisions for a significant amount of time used the average (eg. Nemesis 80%, Poby 87.5%)  
 This multiplier is also the default for each players Judgement stat, with specific exceptions for players who perform above their regions expectation (eg. Caps, Inspired, Levi).  
 
