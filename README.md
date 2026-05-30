@@ -46,14 +46,14 @@ Region and Division were factored in through the following multipliers:
 + SA/Japan/SEA Div 2 60%  
 
 Players that were in multiple regions/divisions for a significant amount of time used the average  
-  *eg. Nemesis 80%, Poby 87.5%*  
+&ensp; *eg. Nemesis 80%, Poby 87.5%*  
 This multiplier is also the default for each players Judgement stat, with specific exceptions for players who perform above their regions expectation  
-  *eg. Caps, Inspired, Levi*
+&ensp; *eg. Caps, Inspired, Levi*
 
 Some stats like Ego are very hard to accurately judge, but I tried to include as much lore as I could  
-  *eg. TheShy famously disobeying his coach*  
+&ensp; *eg. TheShy famously disobeying his coach*  
 Some stats were also manually set based on lore as well  
-  *eg. Rekkles having a min Aggression score, Hylissang having a max Aggression score*
+&ensp; *eg. Rekkles having a min Aggression score, Hylissang having a max Aggression score*
 
 ### Why doesn't Faker have the max score in every stat?
 
